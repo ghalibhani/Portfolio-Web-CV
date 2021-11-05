@@ -1,0 +1,21 @@
+@media all and (max-width: 670px) {
+  #homedesign {
+    height: 700px;
+    padding-top: 5rem;
+  }
+
+  #gambarprofil {
+    height: 200px;
+    width: 200px;
+  }
+
+  #kontainergambar {
+    padding-top: 3rem;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  #titlehome {
+    padding-top: 1rem;
+  }
+}

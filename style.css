@@ -1,0 +1,114 @@
+body {
+  position: relative;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #dddddd;
+}
+
+/* tulisan nama di about */
+.display-4 {
+  font-size: calc(0.4rem + 2.7vw);
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+/* thumbnail gambar profil */
+.img-thumbnail {
+  padding: 0.25rem;
+  background-color: rgb(53, 53, 53);
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  max-width: 100%;
+  height: auto;
+}
+
+/* navbar scrolling */
+#about {
+  position: relative;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+/* google font */
+.lead {
+  font-family: "ABeeZee", sans-serif;
+  color: rgb(126, 126, 126);
+}
+
+.brandname {
+  font-size: 56px;
+  color: rgb(126, 126, 126);
+}
+/* akhir google font */
+
+/* iconhome */
+a {
+  color: rgb(126, 126, 126);
+}
+
+.iconhome:hover {
+  color: rgb(90, 50, 50);
+}
+
+
+
+#twitter,
+#instagram,
+#facebook,
+#linkedin {
+  padding: 10px;
+  font-size: 30px;
+}
+/* akhir iconhome */
+
+/* home */
+#homedesign {
+  height: 500px;
+  padding-top: 9rem;
+  background-image: url("../PortofolioWeb/img/gedung2.jpg");
+  background-size: cover;
+}
+
+#titlehome {
+  padding-top: 5rem;
+}
+
+h2 {
+  font-size: 3em;
+}
+/* akhir about */
+
+#expertise {
+  padding-top: 3rem;
+}
+
+.isiskilla {
+  padding-bottom: 28px;
+}
+
+.isiskillb {
+  padding-bottom: 3rem;
+}
+
+.subskil {
+  padding-top: 12px;
+  padding-bottom: 60px;
+  font-weight: normal;
+}
+
+footer {
+  height: 80px;
+}
+
+/* contact */
+#contact {
+  background-color: #c0c0c0;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+
+#putter {
+  background-color: #ffff;
+}
