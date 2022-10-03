@@ -6,10 +6,8 @@ This is my first portofolio website, I made this website for study and I hope it
 ### I made this website using
 
 * Visual Studio Code
-* HTML (90,6%)
-* CSS (6,4%)
-* JavaScript (3,0%)
-* Bootstrap
+* HTML (83,3%)
+* CSS (16,7%)
 
 You can open my website via the link below, i hope you enjoy it
 (https://ghalibhani.github.io/Portfolio-Web-CV/)
